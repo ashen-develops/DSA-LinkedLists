@@ -1,0 +1,4 @@
+Linked Lists
+
+Linked lists are data structures that allocate blocks of memory on demand ( as opposed to arrays which store memory in contiguous memory blocks which can make deletion from the beginning or middle of arrays inefficient ).
+
